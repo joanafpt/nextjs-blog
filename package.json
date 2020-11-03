@@ -10,6 +10,8 @@
   "dependencies": {
     "classnames": "^2.2.6",
     "date-fns": "^2.16.1",
+    "gh-pages": "^3.1.0",
+    "gray-matter": "^4.0.2",
     "next": "^10.0.0",
     "postcss-flexbugs-fixes": "^5.0.0",
     "postcss-preset-env": "^6.7.0",
